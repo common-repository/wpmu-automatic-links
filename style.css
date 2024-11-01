@@ -1,0 +1,26 @@
+#message {
+	background-color: rgb(255, 251, 204); 
+	margin:15px;
+	padding:15px;
+}
+.wrap .disabled,
+#message.error {
+	background-color: rgb(218, 79, 33);
+}
+.wrap h3 {
+	clear:both;
+}
+.wrap legend {
+	font-weight:bold;
+}
+.wrap label{
+	float:left;
+	width:100px;
+}
+.wrap input,
+.wrap select {
+	width:180px;
+}
+.wrap .disabled {
+	background-color: #FFCCCC;
+}

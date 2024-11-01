@@ -1,0 +1,1 @@
+add here the .po and .mo file with the good name (ex: WPMUAutomaticLinks-fr_FR.mo)
